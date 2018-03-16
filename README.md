@@ -1,2 +1,2 @@
 # LedgerFormat
-A Ledger CLI formatter that corrects lazy post entries.
+A Ledger CLI formatter that ~will~ correct lazy post entries.
